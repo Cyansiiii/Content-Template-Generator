@@ -1,4 +1,4 @@
-roject Description: Content Template Generator
+project Description: Content Template Generator
 The Content Template Generator is an AI-powered platform developed to revolutionize the way content is created and customized. This project integrates cutting-edge technologies to deliver a seamless, efficient, and scalable solution for content creators, marketers, and businesses. With a focus on modularity and user-friendliness, it empowers users to produce high-quality content effortlessly.
 
 Objectives
